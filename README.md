@@ -14,24 +14,6 @@ JOI Energy is a new start-up in the energy industry. Rather than selling energy 
 
 You have been placed into their development team, whose current goal is to produce an API which their customers and smart meters will interact with.
 
-## Story Wall
-
-At JOI energy the development team use a story wall or Kanban board to keep track of features or "stories" as they are
-worked on.
-
-The wall you will be working from today has 7 columns:
-
-- Backlog
-- Ready for Dev
-- In Dev
-- Ready for Testing
-- In Testing
-- Ready for sign off
-- Done
-
-Examples can be found
-here [https://leankit.com/learn/kanban/kanban-board/](https://leankit.com/learn/kanban/kanban-board/)
-
 ## Users
 
 To trial the new JOI software 5 people from the JOI accounts team have agreed to test the service and share their energy
