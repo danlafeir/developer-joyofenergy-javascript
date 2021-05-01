@@ -1,7 +1,6 @@
 # Welcome to PowerDale
 
-PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
-information about how much power a house is drawing/using.
+PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send information about how much power a house is drawing/using.
 
 There are three major providers of energy in town that charge different amounts for the power they supply.
 
@@ -11,16 +10,9 @@ There are three major providers of energy in town that charge different amounts 
 
 # Introducing JOI Energy
 
-JOI Energy is a new start-up in the energy industry. Rather than selling energy they want to differentiate themselves
-from the market by recording their customers' energy usage from their smart meters and recommending the best supplier to
-meet their needs.
+JOI Energy is a new start-up in the energy industry. Rather than selling energy they want to differentiate themselves from the market by recording their customers' energy usage from their smart meters and recommending the best supplier to meet their needs.
 
-You have been placed into their development team, whose current goal is to produce an API which their customers and
-smart meters will interact with.
-
-Unfortunately, two members of the team are on annual leave, and another one has called in sick! You are left with
-another ThoughtWorker to progress with the current user stories on the story wall. This is your chance to make an impact
-on the business, improve the code base and deliver value.
+You have been placed into their development team, whose current goal is to produce an API which their customers and smart meters will interact with.
 
 ## Story Wall
 
